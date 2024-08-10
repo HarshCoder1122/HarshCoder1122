@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Data Analytics
 - 📫 How to reach me by email: harshpandat0770@gmail.com
-- 😄 Pronouns: Harshuuu
+- 😄 Pronouns: He
 - ⚡ Fun fact: I am Pursuing Btech in CSE and specilization in AI/ML 
 
 <!---
