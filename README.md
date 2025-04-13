@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Analytics
 - 📫 How to reach me by email: harshpandat0770@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: I am Pursuing Btech in CSE and specilization in AI/ML 
+- ⚡ Fun fact: I’m the kind of person who loves with loyalty first—even if I’m not sure it’s returned yet.
 
 <!---
 HarshCoder1122/HarshCoder1122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
