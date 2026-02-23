@@ -2,9 +2,9 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Data Analytics
-- 📫 How to reach me by email: harshpandat0770@gmail.com
+- 📫 How to reach me by email: harshsharma6149@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: I’m the kind of person who loves with loyalty first—even if I’m not sure it’s returned yet.
+- ⚡ Fun fact: Nope.
 
 <!---
 HarshCoder1122/HarshCoder1122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
