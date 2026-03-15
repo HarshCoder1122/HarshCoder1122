@@ -11,7 +11,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://www.linkedin.com/in/harsh-vardhan-4ab80b346)
-[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-0a0a0a?style=for-the-badge&logoColor=FFD700)](https://huggingface.co/HarshCoder1122)
+[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-0a0a0a?style=for-the-badge&logoColor=FFD700)](https://huggingface.co/HarshSharma1212)
 [![RevealIQ](https://img.shields.io/badge/RevealIQ-0a0a0a?style=for-the-badge&logo=safari&logoColor=FFD700)](https://revealiq.in)
 [![Email](https://img.shields.io/badge/hello@revealiq.in-0a0a0a?style=for-the-badge&logo=gmail&logoColor=FFD700)](mailto:hello@revealiq.in)
 [![Views](https://komarev.com/ghpvc/?username=HarshCoder1122&color=FFD700&style=for-the-badge&label=VIEWS)](https://github.com/HarshCoder1122)
@@ -68,7 +68,7 @@ harsh = {
 <br/>
 
 [![Live](https://img.shields.io/badge/LIVE-ai.revealiq.in-FFD700?style=for-the-badge&logoColor=000000)](https://ai.revealiq.in)
-[![Model](https://img.shields.io/badge/MODEL-HuggingFace-0a0a0a?style=for-the-badge&logo=huggingface&logoColor=FFD700)](https://huggingface.co/HarshCoder1122)
+[![Model](https://img.shields.io/badge/MODEL-HuggingFace-0a0a0a?style=for-the-badge&logo=huggingface&logoColor=FFD700)](https://huggingface.co/HarshSharma1212)
 
 </td>
 <td width="45%" align="center">
