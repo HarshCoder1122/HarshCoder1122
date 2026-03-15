@@ -22,7 +22,7 @@
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshCoder1122&layout=donut&hide_border=true&bg_color=0a0a0a&title_color=9b59ff&text_color=ffffff&langs_count=8&border_radius=12"/>
+<img align="right" width="360" src="https://stats-two-blue.vercel.app/api/top-langs/?username=HarshCoder1122&layout=donut&hide_border=true&bg_color=0a0a0a&title_color=9b59ff&text_color=ffffff&langs_count=8&border_radius=12"/>
 
 ### We build custom AI-powered solutions.
 
@@ -143,7 +143,7 @@ harsh = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HarshCoder1122&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=9b59ff&icon_color=9b59ff&text_color=ffffff&rank_icon=github&count_private=true&include_all_commits=true" width="48%"/>
+<img src="https://stats-two-blue.vercel.app/api?username=HarshCoder1122&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=9b59ff&icon_color=9b59ff&text_color=ffffff&rank_icon=github&count_private=true&include_all_commits=true" width="48%"/>
 &nbsp;
 <img src="https://streak-stats.demolab.com?user=HarshCoder1122&hide_border=true&background=0a0a0a&ring=9b59ff&fire=9b59ff&currStreakLabel=9b59ff&sideLabels=ffffff&dates=888888&stroke=0a0a0a" width="48%"/>
 
