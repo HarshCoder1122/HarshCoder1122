@@ -1,278 +1,218 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:140014,100:0a0a0a&height=220&section=header&text=Harsh%20Vardhan&fontSize=56&fontColor=FFD700&fontAlignY=52&animation=fadeIn&desc=Intelligence%2C%20Structured.&descAlignY=72&descSize=17&descColor=aaaaaa"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f5f0ff,40:ede0ff,100:f5f0ff&height=220&section=header&text=Harsh%20Vardhan&fontSize=56&fontColor=5a00a0&fontAlignY=52&animation=fadeIn&desc=Intelligence%2C%20Structured.&descAlignY=72&descSize=17&descColor=555555"/>
-</picture>
+<img src="./assets/hero.svg" width="100%" alt="हर्ष वर्धन / Harsh Vardhan: AI/ML Engineer at ScatterPie, Founder of RevealIQ. Building AI that speaks Bharat's language."/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Hind&weight=500&size=19&duration=2600&pause=1100&color=FFB020&center=true&vCenter=true&width=720&lines=Associate+AI%2FML+Engineer+%40+ScatterPie+Analytics;Founder+%40+RevealIQ+%C2%B7+building+KAUTILYA+AI;Hinglish+voice+agents+on+LiveKit+%C3%97+Groq+%C3%97+Sarvam;Next+up%3A+speech-to-speech+for+every+Indian+language;Shipping.+Exams.+Shipping+again." alt="Rotating roles"/>
+
+<a href="https://www.linkedin.com/in/harshcoder1122"><img src="https://img.shields.io/badge/LinkedIn-harshcoder1122-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0D2A" alt="LinkedIn"/></a>
+<a href="https://huggingface.co/HarshSharma1212"><img src="https://img.shields.io/badge/Hugging_Face-HarshSharma1212-FFB020?style=for-the-badge&logo=huggingface&logoColor=FFD21E&labelColor=0B0D2A" alt="Hugging Face"/></a>
+<a href="https://ai.revealiq.in"><img src="https://img.shields.io/badge/KAUTILYA_AI-live-19C3B1?style=for-the-badge&labelColor=0B0D2A" alt="KAUTILYA AI live"/></a>
+<a href="https://revealiq.in"><img src="https://img.shields.io/badge/RevealIQ-revealiq.in-FF7A1A?style=for-the-badge&labelColor=0B0D2A" alt="RevealIQ"/></a>
+<a href="mailto:harsh@revealiq.in"><img src="https://img.shields.io/badge/Email-harsh%40revealiq.in-F4EEDF?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0B0D2A" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=HarshCoder1122&style=for-the-badge&color=FFB020&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2800&pause=900&color=B566FF&center=true&vCenter=true&width=660&lines=🇮🇳+Building+India's+own+LLM+—+KAUTILYA+AI;Fine-tuning+Qwen2.5+%7C+LoRA+%2F+QLoRA+%7C+Unsloth+2×;Agentic+AI+%7C+Hinglish+NLP+%7C+Open-Source+India;Founder+%40+RevealIQ+Analysis+·+Noida%2C+India;1%2C405+Contributions+%7C+Shipping+Every+Day)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-vardhan-4ab80b346)
-[![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/HarshSharma1212)
-[![RevealIQ](https://img.shields.io/badge/revealiq.in-7c3aed?style=for-the-badge&logo=safari&logoColor=white)](https://revealiq.in)
-[![KAUTILYA LIVE](https://img.shields.io/badge/KAUTILYA%20AI-LIVE-22c55e?style=for-the-badge&logo=rocket&logoColor=white)](https://ai.revealiq.in)
-[![Email](https://img.shields.io/badge/hello@revealiq.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@revealiq.in)
-[![Profile Views](https://komarev.com/ghpvc/?username=HarshCoder1122&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/HarshCoder1122)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshCoder1122/HarshCoder1122/HEAD/assets/h-about-dark.svg"/>
+  <img src="./assets/h-about-light.svg" width="100%" alt="About (परिचय)"/>
+</picture>
 
-</div>
+I'm **Harsh Vardhan**, an AI engineer building for the next billion users. By day I'm an **Associate AI/ML Engineer at ScatterPie Analytics** (promoted from Generative AI Intern), shipping real-time voice agents that people actually call. The rest of the time I run **[RevealIQ Analysis](https://revealiq.in)**, where I'm building **[KAUTILYA AI](https://ai.revealiq.in)**, a Hinglish-native LLM.
 
----
+I'm also a 3rd-year B.Tech EEE student at Lloyd Institute (AKTU), which is why my projects keep drifting into hardware: soil probes, water-quality monitors, Li-ion battery packs.
 
-## `$ whoami`
-
-<img align="right" width="340" src="https://stats-two-blue.vercel.app/api/top-langs/?username=HarshCoder1122&layout=donut&hide_border=true&bg_color=00000000&title_color=B566FF&text_color=888888&langs_count=8&border_radius=16&hide=jupyter%20notebook"/>
-
-I'm **Harsh Vardhan** — EEE undergrad at **Lloyd Institute (AKTU)** and founder of **[RevealIQ Analysis](https://revealiq.in)**.
-
-My mission: Build AI that actually speaks **Bharat's language.**  
-ChatGPT doesn't understand Hinglish. Gemini wasn't trained on chai-time conversations. **I'm building the AI that was.**
+**The bet I'm making:** most of India doesn't talk to AI in textbook English. It talks in Hinglish, in a dozen mother tongues, in voice notes. Models should too.
 
 ```python
 harsh = {
-    "role":        ["Founder", "AI Engineer", "B.Tech EEE Student"],
-    "company":     "RevealIQ Analysis",
-    "location":    "Noida, India 🇮🇳",
-    "mission":     "Intelligence, Structured.",
-    "flagship":    "KAUTILYA AI → ai.revealiq.in",
-    "building":    ["KAUTILYA CLI", "KautilyaCLAW", "ScatterAI"],
-    "model_fav":   "Qwen2.5 family 🔥",
-    "os":          "Linux >>> Windows, always.",
-    "status":      "Shipping. Exams. Shipping again. 🚀"
+    "day_job":   "Associate AI/ML Engineer @ ScatterPie",
+    "venture":   "Founder @ RevealIQ Analysis",
+    "flagship":  "KAUTILYA AI -> ai.revealiq.in",
+    "studying":  "B.Tech EEE (3rd yr) @ Lloyd Institute, AKTU",
+    "base":      "Noida, India",
+    "obsessed":  ["agentic AI", "voice agents", "Indic LLMs"],
+    "fav_stack": ["Qwen2.5", "llama.cpp", "LiveKit", "Groq"],
+    "os":        "Fedora KDE. Linux > Windows, always.",
+    "status":    "Shipping. Exams. Shipping again.",
 }
 ```
 
-<br clear="right"/>
+<br/>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshCoder1122/HarshCoder1122/HEAD/assets/h-kautilya-dark.svg"/>
+  <img src="./assets/h-kautilya-light.svg" width="100%" alt="KAUTILYA AI (कौटिल्य)"/>
+</picture>
 
-## 🧠 KAUTILYA AI — The Flagship
+<a href="https://ai.revealiq.in"><img src="./assets/kautilya.svg" width="100%" alt="KAUTILYA answering a Hinglish question about RAG vs fine-tuning in a terminal, next to its model card"/></a>
 
-> *India's Hinglish-native AI assistant. Trained from scratch on Indic data. Deployed at scale.*
+A fine-tuned **Qwen2.5** with a Chanakya persona: sharp, direct, and fluent in the Hinglish people actually speak. I trained v2 and v3 with **LoRA / QLoRA on Unsloth** across H100, A100 and T4 runs on Kaggle and Colab, on indic-align, Hinglish-1M and hindi-instruct. The model ships as a ~1.6 GB **GGUF (q8_0)** for llama.cpp and serves live behind Flask, Google OAuth and Cloudflare.
+
+| Surface | What it is | Built with |
+|:--|:--|:--|
+| **KAUTILYA AI** | The live web assistant at [ai.revealiq.in](https://ai.revealiq.in) | Flask · Google OAuth · Cloudflare |
+| **KAUTILYA CLI** | Agentic coding tool with a tool-calling loop, Claude Code-style | Python · Linux |
+| **KautilyaCLAW** | Lightweight multi-channel AI client as a single binary | Go · cross-platform |
+| **KAUTILYA for Android** | The assistant in your pocket *(in progress)* | Flutter |
+
+<p>
+<a href="https://ai.revealiq.in"><img src="https://img.shields.io/badge/Talk_to_KAUTILYA-ai.revealiq.in-19C3B1?style=for-the-badge&labelColor=0B0D2A" alt="Talk to KAUTILYA"/></a>
+<a href="https://huggingface.co/HarshSharma1212/Kautilya-v3"><img src="https://img.shields.io/badge/Weights-Kautilya--v3-FFB020?style=for-the-badge&logo=huggingface&logoColor=FFD21E&labelColor=0B0D2A" alt="Kautilya-v3 weights on Hugging Face"/></a>
+</p>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshCoder1122/HarshCoder1122/HEAD/assets/h-voice-dark.svg"/>
+  <img src="./assets/h-voice-light.svg" width="100%" alt="Voice agents (वाणी)"/>
+</picture>
+
+<img src="./assets/voice.svg" width="100%" alt="Voice agent pipeline: caller, Exotel/Vobiz telephony, LiveKit, Sarvam speech-to-text, Groq reasoning, Sarvam text-to-speech, and back to the caller"/>
+
+Phone and web agents that understand Hinglish, answer from a knowledge base, and don't make things up.
+
+- **Presales voice agent** for a real-estate developer: knowledge-base-grounded, compliance-aware answers to property enquiries, in production.
+- **People-ops voice agent** that runs internal event invitations end to end.
+- **ScatterAI**, a multi-tenant voice + chat agent SaaS (think Bolna AI) with SIP telephony over Exotel/Vobiz and per-tenant agent config in Firestore.
+- **DevPulse AI**, a daemon that turns WakaTime coding activity into Groq-written end-of-day summaries on Teams and email.
+
+Scars earned in production: the LiveKit Agents v0 → v1 migration, SIP routing, VAD tuning, silence timeouts and Hinglish language detection.
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshCoder1122/HarshCoder1122/HEAD/assets/h-building-dark.svg"/>
+  <img src="./assets/h-building-light.svg" width="100%" alt="Now building (निर्माण)"/>
+</picture>
+
+<img src="./assets/now.svg" width="100%" alt="Now building: Indic speech-to-speech model (research), iTantra for SIH 2026, Hydroguard for SIH 2026, KAUTILYA on every surface"/>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshCoder1122/HarshCoder1122/HEAD/assets/h-lab-dark.svg"/>
+  <img src="./assets/h-lab-light.svg" width="100%" alt="RevealIQ lab (प्रयोगशाला)"/>
+</picture>
+
+| Product | What it does | Stack |
+|:--|:--|:--|
+| 🤖 **KAUTILYA AI** | Hinglish-native LLM assistant with a Chanakya persona | Qwen2.5 · LoRA · llama.cpp · Flask |
+| 🖥️ **KAUTILYA CLI** | Agentic coding tool in the terminal | Python · tool calling |
+| 🪟 **KautilyaCLAW** | Multi-channel AI client, one binary | Go |
+| 💬 **DAKSH AI** | Conversational AI platform | Python · LLMs · custom UI |
+| 🏫 **AcademicIQ** | School ERP with student records and BI, at [academic.revealiq.in](https://academic.revealiq.in) | Full-stack · BI |
+| 📦 **Storix** | Inventory management with analytics | Python |
+| 🧠 **Jarvis** | Locally hosted personal assistant for my Linux box | Qwen2.5 · Gemini |
+| 🌱 **AI Soil Probe** | IoT soil analysis, presented and recognized at Lloyd Institute | ESP32 · DHT11 · ML |
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshCoder1122/HarshCoder1122/HEAD/assets/h-toolkit-dark.svg"/>
+  <img src="./assets/h-toolkit-light.svg" width="100%" alt="Toolkit (शस्त्रागार)"/>
+</picture>
 
 <table>
 <tr>
-<td width="52%">
+<td width="60%" valign="top">
 
-**What it is:** A fine-tuned Qwen2.5 LLM with a Chanakya persona — sharp, direct, Hinglish-native. Built for the 1.4 billion people mainstream AI forgot.
+<b>Models and training</b><br/>
+<img src="https://img.shields.io/badge/Hugging_Face-12153A?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/Qwen2.5-12153A?style=for-the-badge" alt="Qwen2.5"/>
+<img src="https://img.shields.io/badge/LoRA_%2F_QLoRA-12153A?style=for-the-badge" alt="LoRA / QLoRA"/>
+<img src="https://img.shields.io/badge/Unsloth-12153A?style=for-the-badge" alt="Unsloth"/>
+<img src="https://img.shields.io/badge/llama.cpp-12153A?style=for-the-badge" alt="llama.cpp"/>
+<img src="https://img.shields.io/badge/GGUF-12153A?style=for-the-badge" alt="GGUF"/>
+<img src="https://img.shields.io/badge/Kaggle-12153A?style=for-the-badge&logo=kaggle&logoColor=20BEFF" alt="Kaggle"/>
+<img src="https://img.shields.io/badge/Colab-12153A?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" alt="Colab"/>
+<img src="https://img.shields.io/badge/ONNX-12153A?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX"/>
 
-| Layer | Stack |
-|:--|:--|
-| 🧠 **Model** | Qwen2.5 (1.5B → 7B) + LoRA/QLoRA |
-| ⚡ **Training** | Unsloth · SFTTrainer · 2× faster |
-| 🖥️ **Compute** | H100 · A100 · T4 — Kaggle/Colab |
-| 🗣️ **Data** | indic-align · Hinglish-1M · hindi-instruct |
-| 📦 **Export** | GGUF q8\_0 (~1.6 GB) via llama.cpp |
-| 🔐 **Backend** | Flask · Google OAuth · Cloudflare CDN |
-| 📱 **Mobile** | Flutter Android app *(in progress)* |
-| 🤖 **Agentic** | KAUTILYA CLI — tool-calling loop |
-| 🪟 **Desktop** | KautilyaCLAW — Go binary, multi-channel |
+<b>Voice and agents</b><br/>
+<img src="https://img.shields.io/badge/LiveKit_Agents-12153A?style=for-the-badge" alt="LiveKit Agents"/>
+<img src="https://img.shields.io/badge/Groq-12153A?style=for-the-badge" alt="Groq"/>
+<img src="https://img.shields.io/badge/Sarvam_AI-12153A?style=for-the-badge" alt="Sarvam AI"/>
+<img src="https://img.shields.io/badge/AI4Bharat-12153A?style=for-the-badge" alt="AI4Bharat"/>
+<img src="https://img.shields.io/badge/Exotel_%2F_Vobiz_SIP-12153A?style=for-the-badge" alt="Exotel / Vobiz SIP"/>
+<img src="https://img.shields.io/badge/ESP32-12153A?style=for-the-badge&logo=espressif&logoColor=E7352C" alt="ESP32"/>
 
-[![LIVE →](https://img.shields.io/badge/🚀%20LIVE%20at-ai.revealiq.in-22c55e?style=for-the-badge)](https://ai.revealiq.in)
-[![HuggingFace Model](https://img.shields.io/badge/Model%20on-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/HarshSharma1212)
+<b>Build and ship</b><br/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,go,flask,flutter,nodejs,postgres,mongodb,firebase,gcp,cloudflare,linux,git,threejs,bash&perline=8&theme=dark" alt="Python, PyTorch, Go, Flask, Flutter, Node.js, PostgreSQL, MongoDB, Firebase, GCP, Cloudflare, Linux, Git, Three.js, Bash"/>
 
 </td>
-<td width="48%" align="center">
+<td width="40%" valign="top" align="center">
 
-```
-╔═══════════════════════════════╗
-║                               ║
-║    ██╗  ██╗ █████╗ ██╗   ██╗ ║
-║    ██║ ██╔╝██╔══██╗██║   ██║ ║
-║    █████╔╝ ███████║██║   ██║ ║
-║    ██╔═██╗ ██╔══██║██║   ██║ ║
-║    ██║  ██╗██║  ██║╚██████╔╝ ║
-║    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ║
-║         T I L Y A  A I        ║
-║                               ║
-║  ◉ Qwen2.5 + LoRA/QLoRA       ║
-║    └─ Unsloth 2× speed        ║
-║  ◉ Hinglish NLP Engine        ║
-║    └─ indic-align dataset     ║
-║  ◉ GGUF Export                ║
-║    └─ llama.cpp runtime       ║
-║  ◉ Flask · CDN · OAuth        ║
-║    └─ ai.revealiq.in          ║
-║  ◉ CLI + Mobile + KautilyaCLAW║
-╚═══════════════════════════════╝
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://stats-two-blue.vercel.app/api/top-langs/?username=HarshCoder1122&layout=donut&hide_border=true&bg_color=0B0D2A&title_color=FFB020&text_color=F4EEDF&langs_count=8&border_radius=16&hide=jupyter%20notebook"/>
+  <img width="100%" src="https://stats-two-blue.vercel.app/api/top-langs/?username=HarshCoder1122&layout=donut&hide_border=true&bg_color=FFFFFF&title_color=B45309&text_color=0B0D2A&langs_count=8&border_radius=16&hide=jupyter%20notebook" alt="Most used languages"/>
+</picture>
 
 </td>
 </tr>
 </table>
 
----
-
-## 🏗️ RevealIQ Products
-
-<div align="center">
-
-| Product | What it does | Stack |
-|:--|:--|:--|
-| 🤖 **KAUTILYA AI** | Hinglish-native LLM assistant · Chanakya persona | Qwen2.5 · LoRA · Flask · llama.cpp |
-| 🖥️ **KAUTILYA CLI** | Agentic coding tool (Claude Code-style) | Python · Tool-calling · Linux |
-| 🪟 **KautilyaCLAW** | Lightweight multi-channel AI client | Go · Single binary · Cross-platform |
-| 💬 **DAKSH AI** | Conversational AI platform | Python · LLMs · Custom UI |
-| 🏫 **AcademicIQ** | Intelligent School ERP | Full-stack · BI |
-| 📦 **Storix** | Inventory management system | Python · Analytics |
-| 🌱 **AI Soil Probe** | IoT-enabled soil analysis | ESP32 · DHT11 · AI |
-
-</div>
-
----
-
-## ⚙️ Tech Stack
-
-<div align="center">
-
-**AI / ML**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Qwen2.5](https://img.shields.io/badge/Qwen2.5-7B-7c3aed?style=for-the-badge&logoColor=white)
-![LoRA/QLoRA](https://img.shields.io/badge/LoRA%20%2F%20QLoRA-e11d48?style=for-the-badge&logoColor=white)
-![Unsloth](https://img.shields.io/badge/Unsloth-2×%20faster-f97316?style=for-the-badge&logoColor=white)
-![llama.cpp](https://img.shields.io/badge/llama.cpp-GGUF-0f172a?style=for-the-badge&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-
-**Voice / Agentic**
-
-![LiveKit](https://img.shields.io/badge/LiveKit-Agents-0ea5e9?style=for-the-badge&logoColor=white)
-![Sarvam](https://img.shields.io/badge/Sarvam-STT%20%2F%20TTS-16a34a?style=for-the-badge&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-LPU%20Inference-f59e0b?style=for-the-badge&logoColor=black)
-![Exotel](https://img.shields.io/badge/Exotel-Telephony-6366f1?style=for-the-badge&logoColor=white)
-
-**Infrastructure & Dev**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-IoT-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
+<br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://stats-two-blue.vercel.app/api?username=HarshCoder1122&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=B566FF&icon_color=FFD700&text_color=cccccc&rank_icon=github&count_private=true&include_all_commits=true&cache_seconds=0"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://stats-two-blue.vercel.app/api?username=HarshCoder1122&show_icons=true&hide_border=true&bg_color=ffffff&title_color=6d28d9&icon_color=7c3aed&text_color=111111&rank_icon=github&count_private=true&include_all_commits=true&cache_seconds=0"/>
-  <img width="48%" src="https://stats-two-blue.vercel.app/api?username=HarshCoder1122&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=B566FF&icon_color=FFD700&text_color=cccccc&rank_icon=github&count_private=true&include_all_commits=true"/>
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=HarshCoder1122&hide_border=true&background=0d0d0d&ring=B566FF&fire=FFD700&currStreakLabel=B566FF&currStreakNum=ffffff&sideLabels=cccccc&sideNums=ffffff&dates=888888&stroke=0d0d0d"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=HarshCoder1122&hide_border=true&background=ffffff&ring=7c3aed&fire=a21caf&currStreakLabel=6d28d9&currStreakNum=111111&sideLabels=444444&sideNums=111111&dates=555555&stroke=ffffff"/>
-  <img width="48%" src="https://streak-stats.demolab.com?user=HarshCoder1122&hide_border=true&background=0d0d0d&ring=B566FF&fire=FFD700&currStreakLabel=B566FF&currStreakNum=ffffff&sideLabels=cccccc&sideNums=ffffff&dates=888888&stroke=0d0d0d"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshCoder1122/HarshCoder1122/HEAD/assets/h-record-dark.svg"/>
+  <img src="./assets/h-record-light.svg" width="100%" alt="Track record (उपलब्धियाँ)"/>
 </picture>
 
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=HarshCoder1122&bg_color=0d0d0d&color=B566FF&line=7c3aed&point=FFD700&area=true&hide_border=true&area_color=200040"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=HarshCoder1122&bg_color=ffffff&color=6d28d9&line=7c3aed&point=a21caf&area=true&hide_border=true&area_color=e9d5ff"/>
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=HarshCoder1122&bg_color=0d0d0d&color=B566FF&line=7c3aed&point=FFD700&area=true&hide_border=true&area_color=200040"/>
-</picture>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshCoder1122/HarshCoder1122/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshCoder1122/HarshCoder1122/output/github-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/HarshCoder1122/HarshCoder1122/output/github-snake-dark.svg"/>
-</picture>
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| 🥇 | Event | Result |
-|:--|:--|:--|
-| 🏆 | Design Spark Challenge — Intellect Design Arena, Chennai | **1st Place** |
+| | Event | Result |
+|:--:|:--|:--|
+| 🏆 | Design Spark Challenge, Intellect Design Arena, Chennai | **1st place** |
 | 🏆 | VSIPS Hackathon, Kanpur | **Winner** |
-| 🥈 | IIFM Hackathon, Bhopal (Team Hardini) | **1st Runner Up** |
-| 🎯 | IIM BHU Startup Competition | **Top 5 Startups** |
-| 🥉 | CVS DU Elevare | **3rd Place** |
-| 🎓 | Lloyd Institute — AI Soil Probe | **Presented & Recognized** |
+| 🥈 | IIFM Hackathon, Bhopal (Team Hardini) | **1st runner-up** |
+| 🎯 | IIM BHU Startup Competition | **Top 5 startups** |
+| 🥉 | CVS DU Elevare | **3rd place** |
+| 💧 | Smart India Hackathon 2025 (Team Hydroguard) | **Built HydroPod** |
+| 🌱 | Lloyd Institute, AI Soil Probe | **Presented & recognized** |
 
-</div>
-
----
-
-## 🌐 Open Source & Community
-
-- 🤗 Models published at [`HarshSharma1212`](https://huggingface.co/HarshSharma1212) — Kautilya GGUF exports available
-- 📊 **1,405 contributions** since Aug 2024 — building every single day
-- 🔓 Strong open-source philosophy — Indic models should belong to Bharat
-- 🧪 Active on Kaggle — H100/A100 training runs for KAUTILYA fine-tuning
-- 📢 Working toward contributing Hinglish/Indic datasets back to the community
-
----
-
-## 🔭 Vision
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   India has 1.4 billion people.                          ║
-║   Most AI doesn't speak their language.                  ║
-║                                                          ║
-║   ChatGPT doesn't understand Hinglish the way            ║
-║   Bharat does.                                           ║
-║   Gemini wasn't trained on chai-time conversations.      ║
-║                                                          ║
-║   I'm building the AI that was.                          ║
-║   One fine-tuned checkpoint at a time.                   ║
-║                                                          ║
-║   ──────────────────────────────────────────────         ║
-║                                                          ║
-║   →  Scale KAUTILYA to a fully agentic assistant         ║
-║   →  Ship KAUTILYA AI as a production Android app        ║
-║   →  Make RevealIQ a recognized AI brand in India        ║
-║   →  Contribute Indic models back to open-source         ║
-║   →  Land a 25 LPA+ AI/ML role at a product company      ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-<div align="center">
-
-*"The man who is impatient cannot make good decisions."*  
-**— Chanakya** · The soul of KAUTILYA AI
+**Roles**
+- **Associate AI/ML Engineer**, ScatterPie Analytics, promoted from Generative AI Intern
+- **Founder**, RevealIQ Analysis
+- **Vice-President**, Smart Battery & Energy Innovation Club, Lloyd Institute: running a 3-day, hands-on build of an IoT- and GPS-enabled Li-ion battery pack (Oct 2026)
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1a0030,100:0a0a0a&height=130&section=footer&text=Intelligence%2C%20Structured.&fontSize=16&fontColor=B566FF&animation=fadeIn&fontAlignY=65"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f0e8ff,40:ddd0ff,100:f0e8ff&height=130&section=footer&text=Intelligence%2C%20Structured.&fontSize=16&fontColor=6d28d9&animation=fadeIn&fontAlignY=65"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshCoder1122/HarshCoder1122/HEAD/assets/h-pulse-dark.svg"/>
+  <img src="./assets/h-pulse-light.svg" width="100%" alt="GitHub pulse (आँकड़े)"/>
+</picture>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://stats-two-blue.vercel.app/api?username=HarshCoder1122&show_icons=true&hide_border=true&border_radius=16&bg_color=0B0D2A&title_color=FFB020&icon_color=19C3B1&text_color=F4EEDF&ring_color=FFB020&rank_icon=github&count_private=true&include_all_commits=true"/>
+  <img width="49%" src="https://stats-two-blue.vercel.app/api?username=HarshCoder1122&show_icons=true&hide_border=true&border_radius=16&bg_color=FFFFFF&title_color=B45309&icon_color=0F9E90&text_color=0B0D2A&ring_color=D97706&rank_icon=github&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=HarshCoder1122&hide_border=true&border_radius=16&background=0B0D2A&ring=FFB020&fire=FF7A1A&currStreakLabel=FFB020&currStreakNum=F4EEDF&sideLabels=9A9CC8&sideNums=F4EEDF&dates=9A9CC8&stroke=272B60"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=HarshCoder1122&hide_border=true&border_radius=16&background=FFFFFF&ring=D97706&fire=C2410C&currStreakLabel=B45309&currStreakNum=0B0D2A&sideLabels=5B5E91&sideNums=0B0D2A&dates=5B5E91&stroke=E5E7EB" alt="Contribution streak"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=HarshCoder1122&bg_color=0B0D2A&color=F4EEDF&line=FFB020&point=19C3B1&area=true&area_color=FFB020&hide_border=true&radius=16"/>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=HarshCoder1122&bg_color=FFFFFF&color=0B0D2A&line=D97706&point=0F9E90&area=true&area_color=FDE7C2&hide_border=true&radius=16" alt="Contribution activity graph"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshCoder1122/HarshCoder1122/output/github-snake-dark.svg"/>
+  <img width="98%" src="https://raw.githubusercontent.com/HarshCoder1122/HarshCoder1122/output/github-snake.svg" alt="Snake eating my contribution graph"/>
 </picture>
 
 </div>
+
+<details>
+<summary><b>Off the clock</b></summary>
+<br/>
+
+Ricing Fedora KDE on my Dell, customizing Nothing OS on a Phone (2a), and playing BGMI with gyro aim on, obviously. Indic models should belong to Bharat, so I'm working toward giving my Hinglish and Indic datasets back to the open-source community.
+
+</details>
+
+<br/>
+
+<img src="./assets/footer.svg" width="100%" alt="धन्यवाद for scrolling this far. 'The man who is impatient cannot make good decisions.' Chanakya"/>
