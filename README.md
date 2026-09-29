@@ -22,7 +22,7 @@
 
 I'm **Harsh Vardhan**, an AI engineer building for the next billion users. By day I'm an **Associate AI/ML Engineer at ScatterPie Analytics** (promoted from Generative AI Intern), shipping real-time voice agents that people actually call. The rest of the time I run **[RevealIQ Analysis](https://revealiq.in)**, where I'm building **[KAUTILYA AI](https://ai.revealiq.in)**, a Hinglish-native LLM.
 
-I'm also a 3rd-year B.Tech EEE student at Lloyd Institute (AKTU), which is why my projects keep drifting into hardware: soil probes, water-quality monitors, Li-ion battery packs.
+I'm also a 3rd-year B.Tech EEE student at Lloyd Institute (AKTU), which is why my projects keep drifting into hardware, like an ESP32-powered AI soil probe.
 
 **The bet I'm making:** most of India doesn't talk to AI in textbook English. It talks in Hinglish, in a dozen mother tongues, in voice notes. Models should too.
 
@@ -77,7 +77,6 @@ Phone and web agents that understand Hinglish, answer from a knowledge base, and
 - **Presales voice agent** for a real-estate developer: knowledge-base-grounded, compliance-aware answers to property enquiries, in production.
 - **People-ops voice agent** that runs internal event invitations end to end.
 - **ScatterAI**, a multi-tenant voice + chat agent SaaS (think Bolna AI) with SIP telephony over Exotel/Vobiz and per-tenant agent config in Firestore.
-- **DevPulse AI**, a daemon that turns WakaTime coding activity into Groq-written end-of-day summaries on Teams and email.
 
 Scars earned in production: the LiveKit Agents v0 → v1 migration, SIP routing, VAD tuning, silence timeouts and Hinglish language detection.
 
@@ -88,7 +87,7 @@ Scars earned in production: the LiveKit Agents v0 → v1 migration, SIP routing,
   <img src="./assets/h-building-light.svg" width="100%" alt="Now building (निर्माण)"/>
 </picture>
 
-<img src="./assets/now.svg" width="100%" alt="Now building: Indic speech-to-speech model (research), iTantra for SIH 2026, Hydroguard for SIH 2026, KAUTILYA on every surface"/>
+<img src="./assets/now.svg" width="100%" alt="Now building: Indic speech-to-speech model (research), iTantra for SIH 2026, open Hinglish datasets, KAUTILYA on every surface"/>
 
 <br/>
 
@@ -167,13 +166,11 @@ Scars earned in production: the LiveKit Agents v0 → v1 migration, SIP routing,
 | 🥈 | IIFM Hackathon, Bhopal (Team Hardini) | **1st runner-up** |
 | 🎯 | IIM BHU Startup Competition | **Top 5 startups** |
 | 🥉 | CVS DU Elevare | **3rd place** |
-| 💧 | Smart India Hackathon 2025 (Team Hydroguard) | **Built HydroPod** |
 | 🌱 | Lloyd Institute, AI Soil Probe | **Presented & recognized** |
 
 **Roles**
 - **Associate AI/ML Engineer**, ScatterPie Analytics, promoted from Generative AI Intern
 - **Founder**, RevealIQ Analysis
-- **Vice-President**, Smart Battery & Energy Innovation Club, Lloyd Institute: running a 3-day, hands-on build of an IoT- and GPS-enabled Li-ion battery pack (Oct 2026)
 
 <br/>
 
